@@ -1,0 +1,1 @@
+This is a repository for Advent of Code 2022
